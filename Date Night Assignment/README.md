@@ -1,12 +1,11 @@
-# Assignment - 1
+# Date Night Assignment
 
-Create a ipython notebook of random team generator based on the .tsv file supplied. The program should be able to generate teams based on the number of teams provided as a variable.  Hint: Use csv library to read the file into a list (and/or dictionary) and list comprehensions with random selection without replacement.
+## Objective
 
-Points:
-Total: 100
-Code: 80
-Documentation within IPython using Markdown: 20
+This program uses a .tsv file of student names found in the src file to create random teams. The number of teams is defined by a variable containing the number of teams needed to create.
 
-Bonus: Top three submission which use the least amount of code lines will get +5 points. Blank lines do not count.
+## Programming Language
 
-## Due: 09/08/2020
+Python3 was used to complete this assignment with ipython notebook.
+
+
