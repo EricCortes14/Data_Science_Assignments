@@ -1,10 +1,9 @@
-# Assignment - 2
+# Group Maker Assignment
 
-**Goal**: Solve the questions asked in the notebooks - <https://github.com/UNCG-CSE/CSC-405-605_Fall_2020/blob/master/Assignment/Assignment_2/code/date_night_movie.ipynb>.
+## Objective
 
-Points:
-- **Total: 100**
-- Code: 90
-- Documentation within IPython using Markdown: 10
+This program uses a .tsv file of student names found in the src file to create random teams. The number of teams is defined by a variable containing the number of teams needed to create.
 
+## Programming Language
 
+Python3 was used to complete this assignment with ipython notebook.
