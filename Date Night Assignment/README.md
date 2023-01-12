@@ -2,7 +2,7 @@
 
 ## Objective
 
-This program uses a .tsv file of student names found in the src file to create random teams. The number of teams is defined by a variable containing the number of teams needed to create.
+The objective of this assignment was to format and merge three diferent datasets (users, ratings, and movies) into one singular dataset. Then using the final dataset obtained, extract the information necesary to answer the questions: What's the highest rated movie? What is the best date night movie for two people? 
 
 ## Programming Language
 
