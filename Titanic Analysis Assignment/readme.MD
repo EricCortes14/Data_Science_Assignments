@@ -1,10 +1,12 @@
-# Assignment - 3
+# Titanic Analysis Assignment
 
-**Goal**: Solve the questions asked in the notebooks - <https://github.com/UNCG-CSE/CSC-405-605_Fall_2020/blob/master/Assignment/Assignment_3/code/titanic_analysis.ipynb>.
+## Objective
 
-Points:
-- **Total: 100**
-- Code: 90
-- Documentation within IPython using Markdown: 10
+Using the data of an html file found in the data folder, multiple conclusions were derrived of the survival probability of the passengers. The data for formatted, aggregated, and grouped by differnt categories to derive the possibility of survival depending on those selected categories. Categories such as age, class, and sex.
+
+## Programming Language
+
+Python3 was used to complete this assignment with ipython notebook.
+
 
 
